@@ -20,6 +20,8 @@ dependencies = [
     "tiktoken>=0.9.0",
     "ollama>=0.4.7",
     "langchain-ollama>=0.3.1",
+    "chardet>=5.2.0",
+    "markitdown>=0.1.1",
 ]
 
 [project.optional-dependencies]
